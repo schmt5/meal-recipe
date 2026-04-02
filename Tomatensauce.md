@@ -1,3 +1,10 @@
+---
+title: Tomatensauce mit Soffritto
+tags: [vegetarisch, italienisch, sauce, basis, einfrieren]
+servings: 4
+freezable: true
+---
+
 # Tomatensauce mit Soffritto
 
 ### 🛒 Einkaufsliste (4 Portionen)
@@ -21,7 +28,7 @@ Zwiebel, Karotten und Stangensellerie alle fein würfeln — möglichst gleich g
 
 ---
 
-**Soffritto anschwitzen**
+#### Soffritto anschwitzen
 
 Olivenöl bei mittlerer Hitze erwärmen. Zwiebel, Karotten und Sellerie zusammen hineingeben und ca. 8–10 Min sanft dünsten bis alles weich und leicht golden ist. Dann Knoblauch dazugeben, weitere 1–2 Min anschwitzen — nicht bräunen lassen.
 
