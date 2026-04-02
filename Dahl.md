@@ -1,3 +1,10 @@
+---
+title: Dahl
+tags: [vegetarisch, indisch, linsen, einfrieren, eintopf]
+servings: 4
+freezable: true
+---
+
 # Dahl
 
 Indischer Linsen-Eintopf. Vegetarisch, einfach und sehr einfrierfreundlich.
@@ -54,5 +61,3 @@ Kurz vor Schluss den frischen Blattspinat dazugeben und 2–3 Min mitkochen bis 
 #### Abschmecken & Servieren
 
 Garam Masala einrühren, mit Salz abschmecken. Mit frischem Koriander garnieren. Mit Reis oder Naan servieren.
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Dahl.md&fileType=undefined&fileExtension=md
