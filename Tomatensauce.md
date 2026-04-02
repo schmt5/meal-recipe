@@ -54,11 +54,3 @@ Topf vom Herd nehmen. Jetzt grosszügig Olivenöl einrühren — gibt der Sauce 
 #### Basilikum & Abschmecken
 
 Frisches Basilikum grob zupfen und einrühren. Nochmals mit Salz & Pfeffer abschmecken. Basilikum erst am Ende — sonst wird er grau und bitter.
-
----
-
-#### Ruhen lassen ⏱️
-
-Sauce 5–10 Min ruhen lassen vor dem Servieren oder Einfrieren.
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Tomatensauce+mit+Soffritto.md&fileType=undefined&fileExtension=md
