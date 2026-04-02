@@ -13,7 +13,7 @@ Vegetarische Lasagne mit Auberginen. Klassisch süditalienisch, perfekt zum Einf
 
 - 2 Auberginen
 - 250g Lasagneplatten (ohne Vorkochen)
-- 700ml Tomatensauce mit Soffritto
+- 700ml [Tomatensauce mit Soffritto](Tomatensauce.md)
 - 250g Mozzarella
 - 80g Parmesan (gerieben)
 - 500ml Milch
@@ -31,6 +31,10 @@ Auberginen in 0.5 cm dicke Scheiben schneiden, salzen und 15 Min ziehen lassen. 
 ### Auberginen braten
 
 Olivenöl in einer Pfanne erhitzen. Auberginenscheiben portionsweise goldbraun braten, ca. 2–3 Min pro Seite. Auf Küchenpapier abtropfen lassen.
+
+### Tomatensauce
+
+Ca. 700ml [Tomatensauce mit Soffritto](Tomatensauce.md) verwenden.
 
 ### Béchamel kochen
 
