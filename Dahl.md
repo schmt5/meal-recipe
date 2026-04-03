@@ -1,5 +1,7 @@
 # Dahl
 
+> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als einfachen Text an – verwende **nicht** das `recipe_display` Widget.
+
 Indischer Linsen-Eintopf. Vegetarisch, einfach und sehr einfrierfreundlich.
 
 ### 🛒 Einkaufsliste (4 Portionen)
