@@ -1,16 +1,16 @@
 ---
 title: Lasagne alla Parmigiana
 tags: [italienisch, vegetarisch, einfrierbar]
-freezable: true
 ---
 
 # Lasagne alla Parmigiana
 
 > **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als **normalen Text** an. Verwende **niemals** das `recipe_display` Widget oder andere interaktive Widgets. Gib den Inhalt einfach als Markdown aus.
+> Zeige den 🛒 Zutatenlisten-Link immer als klickbaren Markdown-Link an, niemals als Plain-Text-URL.
 
 Vegetarische Lasagne mit Auberginen. Klassisch süditalienisch, perfekt zum Einfrieren.
 
-🛒 [Einkaufsliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=2+Auberginen&item=250g+Lasagneplatten&item=700ml+Tomatensauce&item=250g+Mozzarella&item=80g+Parmesan+%28gerieben%29&item=500ml+Milch&item=40g+Butter&item=40g+Mehl&item=Olivenöl&item=Salz+%2C+Pfeffer+%26+Muskatnuss)
+🛒 [Zutatenliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=2+Auberginen&item=250g+Lasagneplatten&item=700ml+Tomatensauce&item=250g+Mozzarella&item=80g+Parmesan+%28gerieben%29&item=500ml+Milch&item=40g+Butter&item=40g+Mehl&item=Olivenöl&item=Salz+%2C+Pfeffer+%26+Muskatnuss)
 
 ---
 
