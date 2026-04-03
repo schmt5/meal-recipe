@@ -1,5 +1,7 @@
 # Tomatensauce mit Soffritto
 
+> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als einfachen Text an – verwende **nicht** das `recipe_display` Widget.
+
 ### 🛒 Einkaufsliste (4 Portionen)
 
 - [ ] 1 Zwiebel
@@ -7,10 +9,10 @@
 - [ ] 2 Stangen Sellerie
 - [ ] 4 Knoblauchzehen
 - [ ] 800g ganze geschälte Tomaten (Dose)
-- [ ] 3 tbsp Olivenöl (Anschwitzen) + 4 tbsp (Abschliessen)
+- [ ] 3 EL Olivenöl (Anschwitzen) + 4 EL (Abschliessen)
 - [ ] 1 Bund frisches Basilikum
-- [ ] 1 tsp Zucker
-- [ ] 1 tsp getrockneter Oregano
+- [ ] 1 TL Zucker
+- [ ] 1 TL getrockneter Oregano
 - [ ] Salz & Pfeffer
 
 ### 👨‍🍳 Zubereitung
