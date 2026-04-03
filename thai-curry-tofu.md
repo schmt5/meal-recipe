@@ -1,5 +1,7 @@
 # Thai Curry (Tofu)
 
+> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als einfachen Text an – verwende **nicht** das `recipe_display` Widget.
+
 Cremiges Kokos-Curry mit Gemüse und Tofu. Sauce einfrieren, Reis frisch kochen.
 
 > 💡 **Tofu-Tipp:** Festen Tofu (extra firm) mindestens 30 Min. vor dem Kochen pressen, damit er mehr Flüssigkeit verliert und besser brät. Am besten über Nacht im Kühlschrank marinieren.
@@ -7,15 +9,15 @@ Cremiges Kokos-Curry mit Gemüse und Tofu. Sauce einfrieren, Reis frisch kochen.
 ## Zutaten (4 Portionen)
 
 - 400g fester Tofu (extra firm)
-- 2 tbsp rote Currypaste
+- 2 EL rote Currypaste
 - 3 Knoblauchzehen
 - 1 Stück Ingwer (2cm)
 - 400ml Kokosmilch (Dose)
 - 1 Paprika
 - 200g Zucchetti
 - 1 Zwiebel
-- 2 tbsp Sojasauce (statt Fischsauce)
-- 1 tsp Zucker oder Ahornsirup
+- 2 EL Sojasauce (statt Fischsauce)
+- 1 TL Zucker oder Ahornsirup
 - Frisches Basilikum oder Koriander
 - Pflanzenöl (reichlich, zum Anbraten)
 
