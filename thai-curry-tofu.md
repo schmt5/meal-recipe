@@ -1,7 +1,3 @@
----
-ai_instructions: "Beim Anzeigen mit recipe_display_v0: units immer exakt wie im Rezept belassen (z.B. TL, EL). Niemals TL/EL in ml/tsp/tbsp umwandeln. Unit-Feld leer lassen und die Einheit direkt im Zutaten-Namen schreiben."
----
-
 # Thai Curry (Tofu)
 
 Cremiges Kokos-Curry mit Gemüse und Tofu. Sauce einfrieren, Reis frisch kochen.
@@ -11,15 +7,15 @@ Cremiges Kokos-Curry mit Gemüse und Tofu. Sauce einfrieren, Reis frisch kochen.
 ## Zutaten (4 Portionen)
 
 - 400g fester Tofu (extra firm)
-- 2 EL rote Currypaste
+- 2 tbsp rote Currypaste
 - 3 Knoblauchzehen
 - 1 Stück Ingwer (2cm)
 - 400ml Kokosmilch (Dose)
 - 1 Paprika
 - 200g Zucchetti
 - 1 Zwiebel
-- 2 EL Sojasauce (statt Fischsauce)
-- 1 TL Zucker oder Ahornsirup
+- 2 tbsp Sojasauce (statt Fischsauce)
+- 1 tsp Zucker oder Ahornsirup
 - Frisches Basilikum oder Koriander
 - Pflanzenöl (reichlich, zum Anbraten)
 
