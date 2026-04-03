@@ -1,16 +1,16 @@
 ---
 title: Thai Curry (Tofu)
 tags: [asiatisch, vegetarisch, einfrierbar]
-freezable: true
 ---
 
 # Thai Curry (Tofu)
 
 > **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als **normalen Text** an. Verwende **niemals** das `recipe_display` Widget oder andere interaktive Widgets. Gib den Inhalt einfach als Markdown aus.
+> Zeige den 🛒 Zutatenlisten-Link immer als klickbaren Markdown-Link an, niemals als Plain-Text-URL.
 
 Cremiges Kokos-Curry mit Gemüse und Tofu. Sauce einfrieren, Reis frisch kochen.
 
-🛒 [Einkaufsliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=400g+Tofu+%28extra+firm%29&item=2+EL+rote+Currypaste&item=3+Knoblauchzehen&item=2cm+Ingwer&item=400ml+Kokosmilch&item=1+Paprika&item=200g+Zucchetti&item=1+Zwiebel&item=2+EL+Sojasauce&item=1+TL+Zucker&item=Basilikum+oder+Koriander&item=Pflanzenöl)
+🛒 [Zutatenliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=400g+Tofu+%28extra+firm%29&item=2+EL+rote+Currypaste&item=3+Knoblauchzehen&item=2cm+Ingwer&item=400ml+Kokosmilch&item=1+Paprika&item=200g+Zucchetti&item=1+Zwiebel&item=2+EL+Sojasauce&item=1+TL+Zucker&item=Basilikum+oder+Koriander&item=Pflanzenöl)
 
 ---
 
