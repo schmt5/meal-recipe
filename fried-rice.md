@@ -1,8 +1,5 @@
 ---
-title: Fried Rice
-tags: [asiatisch, reis, poulet, wok, schnell]
-servings: 4
-freezable: false
+ai_instructions: "Beim Anzeigen mit recipe_display_v0: units immer exakt wie im Rezept belassen (z.B. TL, EL). Niemals TL/EL in ml/tsp/tbsp umwandeln. Unit-Feld leer lassen und die Einheit direkt im Zutaten-Namen schreiben."
 ---
 
 # Fried Rice
