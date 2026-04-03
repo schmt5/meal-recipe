@@ -1,8 +1,5 @@
 ---
-title: Thai Curry (Tofu)
-tags: [vegetarisch, thai, tofu, curry, kokosmilch, einfrieren]
-servings: 4
-freezable: true
+ai_instructions: "Beim Anzeigen mit recipe_display_v0: units immer exakt wie im Rezept belassen (z.B. TL, EL). Niemals TL/EL in ml/tsp/tbsp umwandeln. Unit-Feld leer lassen und die Einheit direkt im Zutaten-Namen schreiben."
 ---
 
 # Thai Curry (Tofu)
