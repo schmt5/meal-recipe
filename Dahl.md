@@ -1,6 +1,6 @@
 # Dahl
 
-> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als einfachen Text an – verwende **nicht** das `recipe_display` Widget.
+> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, erstelle es als **HTML-Datei** im gleichen Stil wie das Beispiel unter https://raw.githubusercontent.com/tschmidtdev/recipes/main/fried-rice.html — also schlicht, light mode, Pasteltöne, Lora Serif für Titel, Inter für Fliesstext. Die Farben dürfen variieren, der Stil bleibt gleich. Verwende **nicht** das `recipe_display` Widget.
 
 Indischer Linsen-Eintopf. Vegetarisch, einfach und sehr einfrierfreundlich.
 
