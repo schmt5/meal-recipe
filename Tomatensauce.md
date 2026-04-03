@@ -1,7 +1,3 @@
----
-ai_instructions: "Beim Anzeigen mit recipe_display_v0: units immer exakt wie im Rezept belassen (z.B. TL, EL). Niemals TL/EL in ml/tsp/tbsp umwandeln. Unit-Feld leer lassen und die Einheit direkt im Zutaten-Namen schreiben."
----
-
 # Tomatensauce mit Soffritto
 
 ### 🛒 Einkaufsliste (4 Portionen)
@@ -11,10 +7,10 @@ ai_instructions: "Beim Anzeigen mit recipe_display_v0: units immer exakt wie im 
 - [ ] 2 Stangen Sellerie
 - [ ] 4 Knoblauchzehen
 - [ ] 800g ganze geschälte Tomaten (Dose)
-- [ ] 3 EL Olivenöl (Anschwitzen) + 4 EL (Abschliessen)
+- [ ] 3 tbsp Olivenöl (Anschwitzen) + 4 tbsp (Abschliessen)
 - [ ] 1 Bund frisches Basilikum
-- [ ] 1 TL Zucker
-- [ ] 1 TL getrockneter Oregano
+- [ ] 1 tsp Zucker
+- [ ] 1 tsp getrockneter Oregano
 - [ ] Salz & Pfeffer
 
 ### 👨‍🍳 Zubereitung
