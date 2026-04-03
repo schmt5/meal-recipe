@@ -1,10 +1,20 @@
+---
+title: Fried Rice
+tags: [asiatisch, fleisch, schnell]
+freezable: false
+---
+
 # Fried Rice
 
-> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als einfachen Text an – verwende **nicht** das `recipe_display` Widget.
+> **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als **normalen Text** an. Verwende **niemals** das `recipe_display` Widget oder andere interaktive Widgets. Gib den Inhalt einfach als Markdown aus.
 
 Asiatischer gebratener Reis. Am besten mit Reis vom Vortag — trockener Reis brät besser.
 
-## Zutaten (4 Portionen)
+🛒 [Einkaufsliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=400g+Jasminreis+%28vom+Vortag%29&item=3+Eier&item=200g+Pouletbrust&item=2+Karotten&item=100g+Erbsen+%28TK%29&item=3+Knoblauchzehen&item=3+EL+Sojasauce&item=1+EL+Sesamöl&item=2+Frühlingszwiebeln&item=Pflanzenöl+%26+Salz)
+
+---
+
+### Zutaten (4 Portionen)
 
 - 400g Jasminreis (vom Vortag)
 - 3 Eier
@@ -18,24 +28,21 @@ Asiatischer gebratener Reis. Am besten mit Reis vom Vortag — trockener Reis br
 - Pflanzenöl
 - Salz & Pfeffer
 
-## Zubereitung
+---
 
-### Fleisch anbraten
+### Zubereitung
 
+**1. Fleisch anbraten**
 Pflanzenöl in einem Wok oder grosser Pfanne bei hoher Hitze erhitzen. Poulet anbraten bis gar. Beiseite stellen.
 
-### Gemüse & Knoblauch
-
+**2. Gemüse & Knoblauch**
 Knoblauch und Karotten 2–3 Min anbraten. Erbsen dazugeben, weitere 1 Min.
 
-### Reis anbraten
-
+**3. Reis anbraten**
 Kalten Reis dazugeben und bei hoher Hitze 3–4 Min kräftig anbraten. Den Reis gut aufbrechen — keine Klumpen.
 
-### Eier einrühren
-
+**4. Eier einrühren**
 Eine Lücke in der Mitte machen, Eier hineinschlagen und scrambled rühren, dann mit dem Reis vermischen.
 
-### Würzen & Servieren
-
+**5. Würzen & Servieren**
 Fleisch zurückgeben. Sojasauce und Sesamöl dazugeben, gut vermischen. Mit Frühlingszwiebeln garnieren.
