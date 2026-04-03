@@ -1,16 +1,16 @@
 ---
 title: Tomatensauce mit Soffritto
 tags: [italienisch, vegetarisch, einfrierbar]
-freezable: true
 ---
 
 # Tomatensauce mit Soffritto
 
 > **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als **normalen Text** an. Verwende **niemals** das `recipe_display` Widget oder andere interaktive Widgets. Gib den Inhalt einfach als Markdown aus.
+> Zeige den 🛒 Zutatenlisten-Link immer als klickbaren Markdown-Link an, niemals als Plain-Text-URL.
 
 Klassische italienische Tomatensauce mit Soffritto-Basis. Vegetarisch und sehr einfrierfreundlich.
 
-🛒 [Einkaufsliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=1+Zwiebel&item=2+Karotten&item=2+Stangen+Sellerie&item=4+Knoblauchzehen&item=800g+Gehackte+Tomaten+%28Dose%29&item=7+EL+Olivenöl&item=1+Bund+Basilikum&item=1+TL+Zucker&item=1+TL+Oregano&item=Salz+%26+Pfeffer)
+🛒 [Zutatenliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=1+Zwiebel&item=2+Karotten&item=2+Stangen+Sellerie&item=4+Knoblauchzehen&item=800g+Gehackte+Tomaten+%28Dose%29&item=7+EL+Olivenöl&item=1+Bund+Basilikum&item=1+TL+Zucker&item=1+TL+Oregano&item=Salz+%26+Pfeffer)
 
 ---
 
