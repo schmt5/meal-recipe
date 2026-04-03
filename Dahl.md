@@ -11,10 +11,10 @@ Indischer Linsen-Eintopf. Vegetarisch, einfach und sehr einfrierfreundlich.
 - [ ] 1 Zwiebel
 - [ ] 3 Knoblauchzehen
 - [ ] 1 Stück Ingwer (2cm)
-- [ ] 2 TL Kurkuma
-- [ ] 2 TL Kreuzkümmel
-- [ ] 1 TL Korianderpulver
-- [ ] 1 TL Garam Masala
+- [ ] 2 tsp Kurkuma
+- [ ] 2 tsp Kreuzkümmel
+- [ ] 1 tsp Korianderpulver
+- [ ] 1 tsp Garam Masala
 - [ ] 500ml Gemüsebrühe
 - [ ] Frischer Koriander
 - [ ] Pflanzenöl & Salz
