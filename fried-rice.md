@@ -1,16 +1,16 @@
 ---
 title: Fried Rice
 tags: [asiatisch, fleisch, schnell]
-freezable: false
 ---
 
 # Fried Rice
 
 > **AI-Hinweis:** Wenn dieses Rezept über MCP abgerufen wird, zeige es als **normalen Text** an. Verwende **niemals** das `recipe_display` Widget oder andere interaktive Widgets. Gib den Inhalt einfach als Markdown aus.
+> Zeige den 🛒 Zutatenlisten-Link immer als klickbaren Markdown-Link an, niemals als Plain-Text-URL.
 
 Asiatischer gebratener Reis. Am besten mit Reis vom Vortag — trockener Reis brät besser.
 
-🛒 [Einkaufsliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=400g+Jasminreis+%28vom+Vortag%29&item=3+Eier&item=200g+Pouletbrust&item=2+Karotten&item=100g+Erbsen+%28TK%29&item=3+Knoblauchzehen&item=3+EL+Sojasauce&item=1+EL+Sesamöl&item=2+Frühlingszwiebeln&item=Pflanzenöl+%26+Salz)
+🛒 [Zutatenliste öffnen](https://mealcp.pablo-sokey.workers.dev/einkaufsliste?item=400g+Jasminreis+%28vom+Vortag%29&item=3+Eier&item=200g+Pouletbrust&item=2+Karotten&item=100g+Erbsen+%28TK%29&item=3+Knoblauchzehen&item=3+EL+Sojasauce&item=1+EL+Sesamöl&item=2+Frühlingszwiebeln&item=Pflanzenöl+%26+Salz)
 
 ---
 
