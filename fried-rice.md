@@ -1,7 +1,3 @@
----
-ai_instructions: "Beim Anzeigen mit recipe_display_v0: units immer exakt wie im Rezept belassen (z.B. TL, EL). Niemals TL/EL in ml/tsp/tbsp umwandeln. Unit-Feld leer lassen und die Einheit direkt im Zutaten-Namen schreiben."
----
-
 # Fried Rice
 
 Asiatischer gebratener Reis. Am besten mit Reis vom Vortag — trockener Reis brät besser.
@@ -14,8 +10,8 @@ Asiatischer gebratener Reis. Am besten mit Reis vom Vortag — trockener Reis br
 - 2 Karotten
 - 100g Erbsen (TK)
 - 3 Knoblauchzehen
-- 3 EL Sojasauce
-- 1 EL Sesamöl
+- 3 tbsp Sojasauce
+- 1 tbsp Sesamöl
 - 2 Frühlingszwiebeln
 - Pflanzenöl
 - Salz & Pfeffer
